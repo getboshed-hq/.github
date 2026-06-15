@@ -43,6 +43,6 @@ Bosh is a commercial product — source-available to customers, not open source.
 
 <div align="center">
 
-**[getboshed.com](https://getboshed.com)** · Toni Digital Ltd (Company No. 17268776) · Leicester, UK
+**[getboshed.com](https://getboshed.com)** · Toni Digital Ltd 
 
 </div>
